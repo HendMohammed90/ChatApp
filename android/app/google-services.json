@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "104003652255",
+    "project_id": "flash-chat-ac220",
+    "storage_bucket": "flash-chat-ac220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104003652255:android:d6e279a0c445f93fad70aa",
+        "android_client_info": {
+          "package_name": "co.hend.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104003652255-c80ov42n1sgtas6r17rh9s3eivh2flv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR-Sk_g--Qwq1imCqwi1XSWVd0yxZ43Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104003652255-c80ov42n1sgtas6r17rh9s3eivh2flv6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104003652255-db8js7ci67k0ar9bjbq1rs2g188b3sbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.hend.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
